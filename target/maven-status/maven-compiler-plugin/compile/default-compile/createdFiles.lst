@@ -1,0 +1,12 @@
+com\edigest\Journal\JournalApplication.class
+com\edigest\Journal\controller\PublicController.class
+com\edigest\Journal\service\UserService.class
+com\edigest\Journal\entity\JournalEntry.class
+com\edigest\Journal\controller\JournalEntryController.class
+com\edigest\Journal\service\CustomUserDetailImpl.class
+com\edigest\Journal\repository\JournalRepository.class
+com\edigest\Journal\repository\UserRepository.class
+com\edigest\Journal\controller\UserController.class
+com\edigest\Journal\service\JournalService.class
+com\edigest\Journal\entity\User.class
+com\edigest\Journal\config\SpringSecurity.class

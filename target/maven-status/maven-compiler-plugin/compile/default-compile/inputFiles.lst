@@ -1,0 +1,12 @@
+C:\SpringBoot\Journal\src\main\java\com\edigest\Journal\config\SpringSecurity.java
+C:\SpringBoot\Journal\src\main\java\com\edigest\Journal\controller\JournalEntryController.java
+C:\SpringBoot\Journal\src\main\java\com\edigest\Journal\controller\PublicController.java
+C:\SpringBoot\Journal\src\main\java\com\edigest\Journal\controller\UserController.java
+C:\SpringBoot\Journal\src\main\java\com\edigest\Journal\entity\JournalEntry.java
+C:\SpringBoot\Journal\src\main\java\com\edigest\Journal\entity\User.java
+C:\SpringBoot\Journal\src\main\java\com\edigest\Journal\JournalApplication.java
+C:\SpringBoot\Journal\src\main\java\com\edigest\Journal\repository\JournalRepository.java
+C:\SpringBoot\Journal\src\main\java\com\edigest\Journal\repository\UserRepository.java
+C:\SpringBoot\Journal\src\main\java\com\edigest\Journal\service\CustomUserDetailImpl.java
+C:\SpringBoot\Journal\src\main\java\com\edigest\Journal\service\JournalService.java
+C:\SpringBoot\Journal\src\main\java\com\edigest\Journal\service\UserService.java
